@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Hi, I'm Muaz.
+I'm Muaz.
 
 <!--
 
